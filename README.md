@@ -39,9 +39,16 @@ The dashboard includes filters for outlet establishment year, outlet size, and o
 
 ## Project Files
 
-- `dashboard.png` — Dashboard screenshot.
-- `Blinkit_Analysis.pbix` — Power BI report (to be uploaded).
-- Excel dataset — Source data (to be uploaded if sharing is permitted).
+- **Power BI Report:** [Blinkit.pbix](Blinkit.pbix)
+- **Excel Dataset:** [BlinkIT Grocery Data.xlsx](%22BlinkIT%20Grocery%20Data.xlsx%22)
+- **Dashboard Preview:** [dashboard.png](dashboard.png)
+
+## How to View the Project
+
+1. Download `Blinkit.pbix` from this repository.
+2. Open it using Power BI Desktop.
+3. If prompted, update the Excel source path to the downloaded dataset.
+4. Refresh the data if required.
 
 ## How to View
 
