@@ -40,7 +40,7 @@ The dashboard includes filters for outlet establishment year, outlet size, and o
 ## Project Files
 
 - **Power BI Report:** [Blinkit.pbix](Blinkit.pbix)
-- **Excel Dataset:** [BlinkIT Grocery Data.xlsx](%22BlinkIT%20Grocery%20Data.xlsx%22)
+- **Excel Dataset:** [BlinkIT Grocery Data.xlsx](./BlinkIT%20Grocery%20Data.xlsx)
 - **Dashboard Preview:** [dashboard.png](dashboard.png)
 
 ## How to View the Project
